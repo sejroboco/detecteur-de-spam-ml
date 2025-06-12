@@ -46,6 +46,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Lancer l'application Streamlit
+Prendre le soin d'exécuter d'abord le fichier `Projet-ML.py` où le modèle a été créé afin de créer les fichiers `.pkl`.
 
 ```bash
 streamlit run spamDetector_AppWeb.py
